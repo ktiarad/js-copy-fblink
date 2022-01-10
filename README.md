@@ -7,6 +7,7 @@ This project simply gets the copy link of Facebook post. In Facebook, not all po
 
 ### Prerequisites
 * NodeJs Runtime Environment
+
 To run and test the program locally, you need NodeJs installed in your computer.
 
 ### Installation
@@ -28,7 +29,7 @@ link = '<iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%
 console.log(getLink(link));
 ```
 
-4. Run on terminal
+4. Save and run on terminal
 
 ```
 node main.js
